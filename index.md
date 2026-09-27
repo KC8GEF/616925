@@ -1,9 +1,9 @@
 ---
 layout: home
-title: AllStarLink Node [616925]
+title: AllStarLink Node 616925
 ---
 
-## "Amateur Radio traffic relayed through node [616925] and digital modes through a DVSwitch/AMBE server."
+## "Amateur Radio traffic relayed through node 616925 and digital modes through a DVSwitch/AMBE server."
 
 This page is maintained by {{ site.callsign }} as the off-node reference for
 AllStarLink node {{ site.node_number }}. It exists so information about the node —

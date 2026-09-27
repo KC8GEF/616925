@@ -1,7 +1,7 @@
-title: AllStarLink Node [616925]
+title: AllStarLink Node 616925
 description: >-
   Node information, disclosures, and change history for AllStarLink node
-  [616925], operated by [KC8GEF].
+  616925, operated by KC8GEF.
 theme: minima
 minima:
   skin: classic
@@ -13,8 +13,8 @@ show_excerpts: false
 # in this file). Every other page in the kit pulls these in automatically
 # via {{ site.node_number }} and {{ site.callsign }} — no more hunting
 # through every file to update a number.
-node_number: "[616925]"
-callsign: "[KC8GEF]"
+node_number: "616925"
+callsign: "KC8GEF"
 
 # Simple manual nav — minima will list any page below that has a title
 # and isn't excluded, in the order they're listed here.
