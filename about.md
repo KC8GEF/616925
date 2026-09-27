@@ -4,9 +4,9 @@ title: About This Node
 permalink: /about.html
 ---
 
-**Node:** {{ site.node_number }}
-**Callsign:** {{ site.callsign }}
-**Type:** Allstar node and DVSwitch server - DMR (Brandmeister), YSF, P25, D-STAR, NXDN using the DVMEGA DVstick 30.
+**Node:** {{ site.node_number }}\
+**Callsign:** {{ site.callsign }}\
+**Type:** Allstar node and DVSwitch server - DMR (Brandmeister), YSF, P25, D-STAR, NXDN using the DVMEGA DVstick 30.\
 
 *DVSwitch Server itself is really three independent systemd services working together:
 

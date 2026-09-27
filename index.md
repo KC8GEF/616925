@@ -3,7 +3,7 @@ layout: home
 title: AllStarLink Node [616925]
 ---
 
-## [Optional: a one-line courtesy notice, e.g. "Amateur Radio traffic relayed through node [NODE NUMBER] may be recorded."]
+## "Amateur Radio traffic relayed through node [616925] and digital modes through a DVSwitch/AMBE server."
 
 This page is maintained by {{ site.callsign }} as the off-node reference for
 AllStarLink node {{ site.node_number }}. It exists so information about the node —
